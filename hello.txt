@@ -1,0 +1,2 @@
+Hello, this is my first GitHub practice
+Add hello.txt file
